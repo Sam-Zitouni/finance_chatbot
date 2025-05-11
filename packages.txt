@@ -1,1 +1,2 @@
-build-essential libgcc-s1
+build-essential 
+libgcc-s1
